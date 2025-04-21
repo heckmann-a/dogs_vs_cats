@@ -1,6 +1,6 @@
 # dogs_vs_cats
 ## Mein Projekt steht auf GitHub zur Verfügung und lässt sich direkt über nbviewer ansehen: 
-[Zum Notebook]()
+[Zum Notebook](https://nbviewer.org/github/heckmann-a/dogs_vs_cats/blob/main/Dogs_vs_Cats.ipynb)
 
 &nbsp;
 # Einführung:
