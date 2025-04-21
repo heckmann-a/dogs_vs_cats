@@ -1,1 +1,45 @@
 # dogs_vs_cats
+## Mein Projekt steht auf GitHub zur Verfügung und lässt sich direkt über nbviewer ansehen: 
+[Zum Notebook]()
+
+&nbsp;
+# Einführung:
+Hund!...oder Katze?...oder doch Hund?\
+Für uns Menschen ist es relativ einfach zu erkennen ob sich um einen Hund oder eine Katze handelt.\
+Unser Gehirn hat Millionen Jahre Evolution hinter sich – wir sind darauf trainiert, Tiere zu erkennen.\
+Anders sieht es bei Computern aus. Diese sehen nur eine Matrix aus Zahlen mit zu vielen Pixeln und entsprechenden RGB-Werten (Rot, Grün, Blau).
+
+Folglich:\
+-> Wir sehen einen flauschigen Hund.\
+-> Die Maschine eine gefühlt endlose Zahlenschlange.
+
+Es ist aber wichtig, dass Computer heutzutage Bilder erkennen z.B.:
+
+* In der Medizin um frühzeitig Krankheiten zu erkennen und Diagnosen zu erstellen.
+* In der Forschung um mikroskopischen Aufnahmen zu analysieren.
+* In der Sicherheit um verdächtige Personen oder Verhalten zu erkennen.
+* In der Industrie bei der Fertigung um Fehler in der Produktion zu erkennen.
+
+# Aufgabenstellung:
+Damit die Maschinen solche Unterschiede erkennen können, soll hier ein Machine-Learning-Modell erstellt und trainiert werden.\
+Hierzu wurde ein Datensatz aus Kaggle genutzt, welches ca. 12.500 Katzen- und 12.500 Hundebilder enthält.
+
+# Datenquellen:
+[(Datensätze: Kaggle.com)](https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset?select=kagglecatsanddogs_3367a).
+
+# Technologien & Libraries:
+* Python in Jupyter Notebook
+* libs: matplotlib, pandas, numpy, tensorflow, keras, layers, Image aus PIL
+
+# Beschreibung des Vorgehens:
+* Einlesen und Vorverarbeitung der Daten
+* Modellierung
+* Ablation Study
+* Ergebnisse
+
+# Ergebnisse:
+Durch den Aufbau eines CNN (Convolutional Neural Networks) mit leichter Datenaugmentierungen und einer Epoche von 20\
+konnte eine Performance erreicht werden von:
+* Train = accuracy: 0.8938 - train_loss: 0.2490
+* Validation = accuracy: 0.8986 - val_loss: 0.2587
+* Test = accuracy: 0.8733 - test_loss: 0.3081
