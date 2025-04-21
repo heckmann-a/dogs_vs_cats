@@ -5,9 +5,9 @@
 &nbsp;
 # Einführung:
 Hund!...oder Katze?...oder doch Hund?\
-Für uns Menschen ist es relativ einfach zu erkennen ob sich um einen Hund oder eine Katze handelt.\
+Für uns Menschen ist es relativ einfach zu erkennen, ob es sich um einen Hund oder eine Katze handelt.\
 Unser Gehirn hat Millionen Jahre Evolution hinter sich – wir sind darauf trainiert, Tiere zu erkennen.\
-Anders sieht es bei Computern aus. Diese sehen nur eine Matrix aus Zahlen mit zu vielen Pixeln und entsprechenden RGB-Werten (Rot, Grün, Blau).
+Bei Computern ist das anders. Sie sehen nur eine Zahlenmatrix mit zu vielen Pixeln und entsprechenden RGB-Werten (Rot, Grün, Blau).
 
 Folglich:\
 -> Wir sehen einen flauschigen Hund.\
