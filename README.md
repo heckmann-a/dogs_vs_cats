@@ -40,6 +40,12 @@ Hierzu wurde ein Datensatz aus Kaggle genutzt, welches ca. 12.500 Katzen- und 12
 # Ergebnisse:
 Durch den Aufbau eines CNN (Convolutional Neural Networks) mit leichter Datenaugmentierungen und einer Epoche von 20\
 konnte eine Performance erreicht werden von:
-* Train = accuracy: 0.8938 - train_loss: 0.2490
-* Validation = accuracy: 0.8986 - val_loss: 0.2587
-* Test = accuracy: 0.8733 - test_loss: 0.3081
+* Train = 89,38 % [accuracy: 0.8938 - train_loss: 0.2490]
+* Validation = 89,86 % [accuracy: 0.8986 - val_loss: 0.2587]
+* Test = 87,33 % [accuracy: 0.8733 - test_loss: 0.3081]
+
+|          | Train   |Validation| Test     |
+|----------:|:----------:|:----------:|:----------:|
+| %        | 89,38    | 89,86    | 87,33    |
+| Accuracy | 0.8938   | 0.8986   | 0.8733   |
+| Loss     | 0.2490   | 0.2587   | 0.3081   |
