@@ -25,7 +25,9 @@ Damit die Maschinen solche Unterschiede erkennen können, soll hier ein Machine-
 Hierzu wurde ein Datensatz aus Kaggle genutzt, welches ca. 12.500 Katzen- und 12.500 Hundebilder enthält.
 
 # Datenquellen:
-[(Datensätze: Kaggle.com)](https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset?select=kagglecatsanddogs_3367a).
+[(Datensätze: Kaggle.com)](https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset?select=kagglecatsanddogs_3367a)\
+*Der verwendete Datensatz stammt aus Kaggle und unterliegt der Lizenz 'Unknown'.\
+Dieses Projekt dient ausschließlich zu Lern- und Demonstrationszwecken und wird nicht für kommerzielle Nutzung eingesetzt.*
 
 # Technologien & Libraries:
 * Python in Jupyter Notebook
