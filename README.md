@@ -1,4 +1,8 @@
 # dogs_vs_cats
+
+<img src="https://github.com/user-attachments/assets/cb8707bc-25a1-43f7-9935-941cc4ef6077" alt="Bildbeschreibung" width="600"/>\
+Foto von Andrew S auf Unsplash:[link](https://unsplash.com/de/fotos/ein-hund-und-eine-katze-liegen-im-gras-ouo1hbizWwo)
+
 ## Mein Projekt steht auf GitHub zur Verfügung und lässt sich direkt über nbviewer ansehen: 
 [Zum Notebook](https://nbviewer.org/github/heckmann-a/dogs_vs_cats/blob/main/Dogs_vs_Cats.ipynb)
 
